@@ -43,34 +43,43 @@ I enjoy turning ideas into working solutions, improving my craft through real pr
 
 ---
 
-## Featured Work
+## Featured Projects
 
-<p align="left">
-  <a href="https://github.com/Prem324/ai-code-reviewer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=ai-code-reviewer&theme=tokyonight&hide_border=true" alt="AI Code Reviewer" />
-  </a>
-  <a href="https://github.com/Prem324/ai-document-chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=ai-document-chat&theme=tokyonight&hide_border=true" alt="AI Document Chat" />
-  </a>
-</p>
+### 1. AI Code Reviewer
+A practical AI-assisted code review project focused on improving developer workflows and code quality.
 
-<p align="left">
-  <a href="https://github.com/Prem324/ai-resume-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true" alt="AI Resume Analyzer" />
-  </a>
-  <a href="https://github.com/Prem324/AnythingAI-Task-Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=AnythingAI-Task-Management&theme=tokyonight&hide_border=true" alt="AnythingAI Task Management" />
-  </a>
-</p>
+- Tech: Python / JavaScript / AI APIs
+- Repo: https://github.com/Prem324/ai-code-reviewer
 
-<p align="left">
-  <a href="https://github.com/Prem324/e-commerce_platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=e-commerce_platform&theme=tokyonight&hide_border=true" alt="E-Commerce Platform" />
-  </a>
-  <a href="https://github.com/Prem324/blog-rest-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=blog-rest-api&theme=tokyonight&hide_border=true" alt="Blog REST API" />
-  </a>
-</p>
+### 2. AI Document Chat
+An intelligent document-chat application that allows users to interact with uploaded files through conversational queries.
+
+- Tech: React / Node.js / AI Integration
+- Repo: https://github.com/Prem324/ai-document-chat
+
+### 3. AI Resume Analyzer
+A resume analysis tool that helps evaluate candidate profiles and match them with job requirements.
+
+- Tech: Python / React / NLP / API Integration
+- Repo: https://github.com/Prem324/ai-resume-analyzer
+
+### 4. AnythingAI Task Management
+A task management platform designed to streamline work with AI-assisted productivity features.
+
+- Tech: Full-Stack / AI / Product UI
+- Repo: https://github.com/Prem324/AnythingAI-Task-Management
+
+### 5. E-Commerce Platform
+A full e-commerce application built to demonstrate scalable frontend and backend architecture.
+
+- Tech: React / Node.js / MongoDB / API Design
+- Repo: https://github.com/Prem324/e-commerce_platform
+
+### 6. Blog REST API
+A backend-focused blog system built with REST API patterns and structured data management.
+
+- Tech: Node.js / Express / MongoDB
+- Repo: https://github.com/Prem324/blog-rest-api
 
 ---
 
