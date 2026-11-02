@@ -1,9 +1,12 @@
-## Hi, I'm Prem 👋
-
-I’m a full-stack developer who enjoys turning ideas into practical products, scalable systems, and user-friendly experiences. My work blends strong frontend fundamentals, backend thinking, and growing interest in AI-driven tools.
+# Hi, I'm Prem 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7C3AED&background=0D1117&lines=Full-Stack+Developer;AI+Product+Builder;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&background=0D1117&lines=Full-Stack+Developer;AI+Product+Builder;Problem+Solver;Always+Learning" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-00C853?style=for-the-badge" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%20%7C%20Products-673AB7?style=for-the-badge" alt="Focus" />
 </p>
 
 <div align="center">
@@ -24,11 +27,13 @@ I’m a full-stack developer who enjoys turning ideas into practical products, s
 
 ## About Me
 
-- 🔭 Building real-world applications and workflow-focused products
-- 🤖 Exploring AI-powered tools, automation, and smarter user experiences
-- 🌱 Constantly learning backend systems, APIs, product thinking, and architecture
-- 💡 Passionate about clean code, scalable design, and practical problem solving
-- 🤝 Open to collaboration, internships, freelance opportunities, and creative projects
+I’m a software developer who enjoys turning ideas into practical digital products. I’m especially interested in building full-stack solutions, exploring AI-powered experiences, and improving how users interact with technology.
+
+- 🔭 Building solutions that solve real-world problems
+- 🤖 Exploring AI tools, automation, and smarter workflows
+- 🌱 Constantly improving my skills in product thinking and architecture
+- 💡 Passionate about clean code, scalable systems, and user-first experiences
+- 🤝 Open to collaboration, internships, freelance work, and meaningful projects
 
 ---
 
@@ -53,7 +58,7 @@ I’m a full-stack developer who enjoys turning ideas into practical products, s
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### Tools & AI
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -94,34 +99,35 @@ I’m a full-stack developer who enjoys turning ideas into practical products, s
 
 ## Current Focus
 
-- Building project-based learning work and real-world applications
-- Improving backend architecture, APIs, and product-driven design
-- Exploring AI-powered workflows and practical automation
-- Learning scalable systems and performance optimization
+- Building real-world products and project-based learning work
+- Improving full-stack architecture and API design
+- Exploring AI-powered experiences and workflow automation
+- Learning scalable systems, performance optimization, and product thinking
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prem324&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prem324&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem324&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem324&theme=radical&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ---
 
-## Fun Facts
+## Let’s Connect
 
-- 🚀 I enjoy turning ideas into working products
-- 📚 I keep improving by building and learning from each project
-- 🧠 I prefer clean, simple solutions over unnecessary complexity
-- 🤝 I’m always open to collaboration, feedback, and meaningful work
+I enjoy building, learning, and collaborating with people who care about creating useful products.
+
+- 💼 Open to internships, freelance and product work
+- 🤝 Looking to collaborate on meaningful projects
+- 📬 Reach me at: prem324r@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prem324&label=Profile+Views&color=7C3AED&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Prem324&label=Profile+Views&color=7C3AED&style=flat" alt="Profile views" />
 </p>
