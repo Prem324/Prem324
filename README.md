@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Prem 👋
+## Hi, I'm Prem 👋
 
 I’m a software developer who enjoys building practical, scalable, and user-focused digital products. I like turning ideas into working solutions through clean code, continuous learning, and problem-solving.
 
@@ -13,10 +11,10 @@ I’m a software developer who enjoys building practical, scalable, and user-foc
   <a href="https://github.com/Prem324">
     <img src="https://img.shields.io/badge/GitHub-Prem324-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/Prem324">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:prem324r@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
   </a>
 
