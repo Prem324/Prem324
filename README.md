@@ -1,13 +1,13 @@
 # Hi, I'm Prem 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&background=0D1117&lines=Full-Stack+Developer;AI+Product+Builder;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8B5CF6&background=0D1117&lines=Full-Stack+Developer;AI+Product+Builder;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-00C853?style=for-the-badge" alt="Open to opportunities" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%20%7C%20Products-673AB7?style=for-the-badge" alt="Focus" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/AVAILABLE%20FOR-Freelance%20%7C%20Internships-22C55E?style=for-the-badge" alt="Available for work" />
+  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%2B%20AI-8B5CF6?style=for-the-badge" alt="Focus" />
+</div>
 
 <div align="center">
 
@@ -27,13 +27,50 @@
 
 ## About Me
 
-I’m a software developer who enjoys turning ideas into practical digital products. I’m especially interested in building full-stack solutions, exploring AI-powered experiences, and improving how users interact with technology.
+I’m a developer focused on building clean, practical, and user-centered digital products. My interests sit at the intersection of full-stack development, AI-driven workflows, and product thinking — creating tools that are not just functional, but genuinely useful.
 
-- 🔭 Building solutions that solve real-world problems
-- 🤖 Exploring AI tools, automation, and smarter workflows
-- 🌱 Constantly improving my skills in product thinking and architecture
-- 💡 Passionate about clean code, scalable systems, and user-first experiences
-- 🤝 Open to collaboration, internships, freelance work, and meaningful projects
+I enjoy turning ideas into working solutions, improving my craft through real projects, and learning by building. Whether it’s front-end experiences, API design, or intelligent automation, I care about solving the right problem in a scalable and thoughtful way.
+
+---
+
+## What I Build
+
+- ⚙️ Full-stack web applications with strong user experience
+- 🤖 AI-powered tools and workflows that simplify tasks
+- 📦 Backend systems, REST APIs, and data-driven experiences
+- 🧠 Product-focused solutions with clarity, performance, and usability
+- 🚀 Real-world projects that combine learning with execution
+
+---
+
+## Featured Work
+
+<p align="left">
+  <a href="https://github.com/Prem324/ai-code-reviewer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=ai-code-reviewer&theme=tokyonight&hide_border=true" alt="AI Code Reviewer" />
+  </a>
+  <a href="https://github.com/Prem324/ai-document-chat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=ai-document-chat&theme=tokyonight&hide_border=true" alt="AI Document Chat" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Prem324/ai-resume-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true" alt="AI Resume Analyzer" />
+  </a>
+  <a href="https://github.com/Prem324/AnythingAI-Task-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=AnythingAI-Task-Management&theme=tokyonight&hide_border=true" alt="AnythingAI Task Management" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Prem324/e-commerce_platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=e-commerce_platform&theme=tokyonight&hide_border=true" alt="E-Commerce Platform" />
+  </a>
+  <a href="https://github.com/Prem324/blog-rest-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=blog-rest-api&theme=tokyonight&hide_border=true" alt="Blog REST API" />
+  </a>
+</p>
 
 ---
 
@@ -66,68 +103,37 @@ I’m a software developer who enjoys turning ideas into practical digital produ
 
 ---
 
-## Featured Projects
+## GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/Prem324/ai-code-reviewer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=ai-code-reviewer&theme=radical&hide_border=true" alt="AI Code Reviewer" />
-  </a>
-  <a href="https://github.com/Prem324/ai-document-chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=ai-document-chat&theme=radical&hide_border=true" alt="AI Document Chat" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prem324&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/Prem324/ai-resume-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=ai-resume-analyzer&theme=radical&hide_border=true" alt="AI Resume Analyzer" />
-  </a>
-  <a href="https://github.com/Prem324/AnythingAI-Task-Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=AnythingAI-Task-Management&theme=radical&hide_border=true" alt="AnythingAI Task Management" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Prem324/e-commerce_platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=e-commerce_platform&theme=radical&hide_border=true" alt="E-Commerce Platform" />
-  </a>
-  <a href="https://github.com/Prem324/blog-rest-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prem324&repo=blog-rest-api&theme=radical&hide_border=true" alt="Blog REST API" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem324&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
 ## Current Focus
 
-- Building real-world products and project-based learning work
-- Improving full-stack architecture and API design
-- Exploring AI-powered experiences and workflow automation
-- Learning scalable systems, performance optimization, and product thinking
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prem324&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem324&theme=radical&hide_border=true" alt="GitHub streak stats" />
-</p>
+- Building real-world products and polished user experiences
+- Improving system design, API structure, and scalable architecture
+- Exploring AI-powered workflows and practical automation
+- Learning through hands-on building and product iteration
 
 ---
 
 ## Let’s Connect
 
-I enjoy building, learning, and collaborating with people who care about creating useful products.
+Open to meaningful opportunities, collaborations, and interesting projects.
 
-- 💼 Open to internships, freelance and product work
-- 🤝 Looking to collaborate on meaningful projects
-- 📬 Reach me at: prem324r@gmail.com
+- 📧 prem324r@gmail.com
+- 💼 Internships, freelance work, and product collaborations
+- 🤝 Always open to learning and building with others
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prem324&label=Profile+Views&color=7C3AED&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Prem324&label=Profile+Views&color=8B5CF6&style=flat" alt="Profile Views" />
 </p>
